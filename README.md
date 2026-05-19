@@ -10,9 +10,9 @@ Interested in AI-Embedded Web Applications, Python Backend Development, and Java
 
 ## 👩‍💻 About Me
 
-- 💼 Currently working as a System Engineer at Infosys
-- 🎓 MCA in Artificial Intelligence & Machine Learning from LNCT Group of Colleges
-- 🎓 BCA from Raja Balwant Singh College, Khandari, Agra
+- 💼 Currently working as a System Engineer at Infosys Limited, Pune, Maharashtra, India
+- 🎓 MCA in Artificial Intelligence & Machine Learning from LNCT Group of Colleges, Bhopal, Madhya Pradesh, India
+- 🎓 BCA from Raja Balwant Singh College, Khandari, Agra, Uttar Pradesh, India
 - 🌱 Exploring AI-powered applications and scalable backend systems
 - 💡 Interested in Machine Learning, Deep Learning, and Full Stack Development
 
