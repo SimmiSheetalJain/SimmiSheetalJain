@@ -39,13 +39,6 @@ Interested in AI-Embedded Web Applications, Python Backend Development, and Java
 - Backend Development
 - AI-Embedded Web Applications
 
-### Tools & Technologies
-- Git & GitHub
-- JUnit
-- Jenkins
-- Security Filter Chain
-- REST APIs
-
 ## 📌 Projects
 
 ### 🔹 PhysioDeep
