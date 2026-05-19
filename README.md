@@ -88,9 +88,8 @@ A Tax Filing Application developed during training at Infosys Mysore DC.
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add Your LinkedIn Profile Link
-- GitHub: Add Your GitHub Profile Link
-- Email: Add Your Email Address
+- [LinkedIn](www.linkedin.com/in/ssj11012001)
+- Email: sheetaljainladoo11@gmail.com
 
 ---
 
